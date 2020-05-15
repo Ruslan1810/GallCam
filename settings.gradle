@@ -1,0 +1,2 @@
+rootProject.name='GallCam'
+include ':app'
